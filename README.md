@@ -1,4 +1,4 @@
-#PROJETOS DE PESQUISA: INTELIGÊNCIA ARTIFICIAL E VISÃO COMPUTACIONAL
+# PROJETOS DE PESQUISA: INTELIGÊNCIA ARTIFICIAL E VISÃO COMPUTACIONAL
 
 CONTEXTO ACADÊMICO Projetos desenvolvidos durante o Mestrado em Ciência da Computação, aplicando modelos de Deep Learning para problemas complexos de monitoramento e análise de dados.
 
